@@ -23,5 +23,5 @@ README.md
 
 # Docker bilan bog‘liq fayllar (agar mavjud bo‘lsa)
 docker-compose.yml
-Dockerfile
+dockerfile
 nginx/
